@@ -6,7 +6,7 @@ I design websites for businesses and make fun projects in my free time.
 
 My main tech stack is react, tailwindcss, and typescript.
 
-My favorite project so far is the [MERN Stack Authentication](https://github.com/devwithmpho/mern-authentication) project.
+My favorite project so far is my [Simple yfinance stock data fetcher](https://github.com/devwithmpho/yf_simple_fetcher).
 
 If you would like to contact me, you can reach me through my [email](devwithmpho@gmail.com).
 
