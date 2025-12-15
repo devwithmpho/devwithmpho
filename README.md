@@ -1,10 +1,8 @@
 ## Hi! 👋
 
-I am [Mpho](https://github.com/devwithmpho), a web developer based in South Africa.
+I am [Mpho](https://github.com/devwithmpho), a student based in South Africa.
 
-I mainly make websites for businesses but also work on small projects in my free time
-
-My main tech stack is react, tailwindcss, and typescript.
+I mainly make fun helpful tools in my free time.
 
 My favorite project so far is my [Simple yfinance stock data fetcher](https://github.com/devwithmpho/yf_simple_fetcher).
 
@@ -14,9 +12,7 @@ If you would like to contact me, you can reach me through my [email](devwithmpho
 
 ### Tech & Tools
 
-- React, Tailwindcss, Typescript
-- Learning Next JS
-- Figma, Canva
+- Python, Java, Typescript
 
 ---
 
