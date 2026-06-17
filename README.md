@@ -1,6 +1,6 @@
 ## Hi! 👋
 
-I am [Mpho](https://github.com/devwithmpho), a student based in South Africa.
+I am [Mpho](https://github.com/devwithmpho), a Bachelor of Accounting Science student based in South Africa.
 
 I mainly make fun helpful tools in my free time.
 
@@ -18,7 +18,7 @@ If you would like to contact me, you can reach me through my [email](devwithmpho
 
 ### More About Me:
 
-- 🏎 My favorite sport - motorsport - is F1 racing.
-- 🏁 I also like GT3 racing.
+- 🏉 My favorite sport is rugby.
+- 🏁 I also like GT3 and F1 racing.
 - 💻 I have been programming since grade 6.
 - ⌚ Hobbies: gym, sim-racing, coding
